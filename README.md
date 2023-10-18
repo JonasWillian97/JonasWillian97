@@ -20,8 +20,6 @@ Olá! eu sou o Jonas Willian 👋
   <img align="center" alt="Jonas-HTML" height="40" width="50 " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-![Snake animation](https://github.com/JonasWillian97/JonasWillian97/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 
