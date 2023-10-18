@@ -3,7 +3,7 @@ Olá! eu sou o Jonas Willian 👋
 
 - 🔭 Hoje eu trabalho com Front-end
 - 🌱 Estudante de Typescript
-- 🤔 Pronomes: ele/dele
+  
 
 <div align="center">
   <a href="https://github.com/JonasWillian97">
